@@ -1,0 +1,2 @@
+# Ecommerce_Exercise_NY_Clothing_Selling_Online
+Exercise on Linear Regression
